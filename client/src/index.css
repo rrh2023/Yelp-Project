@@ -1,0 +1,55 @@
+.navlink {
+  color: rgb(31, 30, 30);
+  text-decoration: none;
+  transition: 0.5s;
+  padding-right: 100px;
+}
+
+.navlink:hover {
+  color: rgb(31, 30, 30);
+  text-decoration: none;
+  opacity: 0.3;
+}
+
+#homelink {
+  color: rgb(31, 30, 30);
+  text-decoration: none;
+}
+
+#homelink:hover {
+  color: rgb(31, 30, 30);
+  text-decoration: none;
+}
+
+.navbar > h1 {
+  padding: 4px 0px;
+}
+
+.smallh {
+  margin-left: 10px;
+}
+
+.map {
+  height: 100vh;
+}
+
+.leaflet-container {
+  height: 50vh;
+  width: 50vw;
+  float: right;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.centerkinda {
+  justify-content: center;
+  align-items: center;
+}
+
+.textbox {
+  width: 325px;
+}
