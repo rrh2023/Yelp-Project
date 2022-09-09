@@ -6,7 +6,7 @@ import axios from "axios"
 const Search = ({favoriteRestaurant, removeRestaurant, dataRestaurants}) => {
 
     // API key & URL
-    const API_KEY = "uUyppNvA2lSCLSK6RaE2D-4mk9kukC1gaeC75hG1SbNgWj_UA9405pv_tSSah_k8PasAYana1F1f0M3oFmP9L8WJTT5isOtOyW8gxIoUiNpS5LLNScMLgm3EHTspYXYx"
+    const API_KEY = ""
     const BASE_URL = "https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/search?"
 
     // Hooks
